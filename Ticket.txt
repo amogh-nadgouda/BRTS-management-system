@@ -1,0 +1,90 @@
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : Hubli Terminal*
+  Bus Type:Non Stop   Standard Ticket   Age Group:ChildTotal Distance : 22 km(s)
+Total Price : 13.75
+Total Dist : 22 km(s)
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : RTO*
+  Bus Type:Non Stop   Standard Ticket   Age Group:ChildTotal Distance : 11 km(s)
+Total Price : 6.875
+Total Dist : 11 km(s)
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : Vidyagiri*
+  Bus Type:Standard   Standard Ticket   Age Group:Senior CitizenTotal Distance : 3 km(s)
+Total Price : 5.0
+Total Dist : 3 km(s)
+
+
+
+Booking details : 
+From : 
+To : 
+  Bus Type:Non Stop   Return Ticket   Age Group:ChildTotal Distance : 
+Total Price : 
+Total Dist : 
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : BVB*
+  Bus Type:Non Stop   Standard Ticket   Age Group:Senior CitizenTotal Distance : 18 km(s)
+Total Price : 16.875
+Total Dist : 18 km(s)
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : BVB*
+  Bus Type:Standard   Return Ticket   Age Group:Senior CitizenTotal Distance : 18 km(s)
+Total Price : 22.0
+Total Dist : 18 km(s)
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : BVB*
+  Bus Type:Non Stop   Standard Ticket   Age Group:Senior CitizenTotal Distance : 18 km(s)
+Total Price : 16.875
+Total Dist : 18 km(s)
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : Hubli Terminal*
+  Bus Type:Non Stop   Standard Ticket   Age Group:ChildTotal Distance : 22 km(s)
+Total Price : 13.75
+Total Dist : 22 km(s)
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : BVB*
+  Bus Type:Non Stop   Standard Ticket   Age Group:AdultTotal Distance : 18 km(s)
+Total Price : 22.5
+Total Dist : 18 km(s)
+
+
+
+Booking details : 
+From : Dharwad Terminal*
+To : Hubli Terminal*
+  Bus Type:Non Stop   Return Ticket   Age Group:AdultTotal Distance : 22 km(s)
+Total Price : 50.0
+Total Dist : 22 km(s)
